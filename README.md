@@ -16,6 +16,19 @@ LetCode Algorithms
     <td>Easy</td>
     <td></td>
   </tr>
-
+  <tr>
+    <td>27</td>
+    <td><a href="https://leetcode.com/problems/remove-element/">Remove Elements</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>125</td>
+    <td><a href="https://leetcode.com/problems/valid-palindrome/">Valid Palindrome</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
 </table>
 
