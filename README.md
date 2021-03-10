@@ -11,7 +11,7 @@ LetCode Algorithms
   </tr>
   <tr>
     <td>26</td>
-    <td>Remove Duplicates from Sorted Array</td>
+    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
     <td>Python</td>
     <td>Easy</td>
     <td></td>
