@@ -46,6 +46,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>53</td>
+    <td><a href="https://leetcode.com/problems/maximum-subarray/">Maximum subarray</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>  
+  <tr>
     <td>75</td>
     <td><a href="https://leetcode.com/problems/sort-colors/">Sort colors</a></td>
     <td>Python</td>
@@ -82,8 +89,22 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>905</td>
+    <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort array by parity</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>977</td>
     <td><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Squares of sorted array</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1389</td>
+    <td><a href="https://leetcode.com/problems/create-target-array-in-the-given-order/">Create target array in the given order</a></td>
     <td>Python</td>
     <td>Easy</td>
     <td></td>
