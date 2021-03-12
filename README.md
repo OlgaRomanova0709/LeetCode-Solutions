@@ -81,6 +81,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>278</td>
+    <td><a href="https://leetcode.com/problems/first-bad-version/">First Bad Version</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
+  <tr>
     <td>283</td>
     <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
     <td>Python</td>
