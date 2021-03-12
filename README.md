@@ -59,12 +59,25 @@ LetCode Algorithms
     <td>Medium</td>
     <td></td>
   </tr> 
-  
+  <tr>
+    <td>69</td>
+    <td><a href="https://leetcode.com/problems/sqrtx/">Sqrtx</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>  
   <tr>
     <td>125</td>
     <td><a href="https://leetcode.com/problems/valid-palindrome/">Valid Palindrome</a></td>
     <td>Python</td>
     <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>162</td>
+    <td><a href="https://leetcode.com/problems/find-peak-element/">Find Peak Element</a></td>
+    <td>Python</td>
+    <td>Medium</td>
     <td></td>
   </tr>
   <tr>
@@ -84,6 +97,13 @@ LetCode Algorithms
   <tr>
     <td>509</td>
     <td><a href="https://leetcode.com/problems/fibonacci-number/">Fibonacci number</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>704</td>
+    <td><a href="https://leetcode.com/problems/binary-search/">Binary Search</a></td>
     <td>Python</td>
     <td>Easy</td>
     <td></td>
