@@ -102,6 +102,14 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>378</td>
+    <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/">Kth smallest element in a sorted matrix</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>  
+  
+  <tr>
     <td>509</td>
     <td><a href="https://leetcode.com/problems/fibonacci-number/">Fibonacci number</a></td>
     <td>Python</td>
