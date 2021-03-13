@@ -152,6 +152,14 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>1351</td>
+    <td><a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count negative numbers in a sorted matrix</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
+  
+  <tr>
     <td>1389</td>
     <td><a href="https://leetcode.com/problems/create-target-array-in-the-given-order/">Create target array in the given order</a></td>
     <td>Python</td>
