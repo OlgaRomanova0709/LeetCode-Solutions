@@ -124,6 +124,14 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>744</td>
+    <td><a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Find Smallest letter greater than target</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
+  
+  <tr>
     <td>905</td>
     <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort array by parity</a></td>
     <td>Python</td>
