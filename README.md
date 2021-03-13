@@ -130,7 +130,13 @@ LetCode Algorithms
     <td>Easy</td>
     <td></td>
   </tr> 
-  
+  <tr>
+    <td>852</td>
+    <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak index in a mountain array</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>   
   <tr>
     <td>905</td>
     <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort array by parity</a></td>
