@@ -60,6 +60,13 @@ LetCode Algorithms
     <td></td>
   </tr> 
   <tr>
+    <td>76</td>
+    <td><a href="https://leetcode.com/problems/minimum-window-substring/">Minimum window substring</a></td>
+    <td>Python</td>
+    <td>Hard</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>69</td>
     <td><a href="https://leetcode.com/problems/sqrtx/">Sqrtx</a></td>
     <td>Python</td>
