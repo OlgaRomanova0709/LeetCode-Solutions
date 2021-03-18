@@ -39,6 +39,20 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>33</td>
+    <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in rotated sorted array</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Find first and last position of element in sorted array</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>  
+  <tr>
     <td>35</td>
     <td><a href="https://leetcode.com/problems/search-insert-position/">Search insert position</a></td>
     <td>Python</td>
