@@ -65,7 +65,14 @@ LetCode Algorithms
     <td>Python</td>
     <td>Easy</td>
     <td></td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td>74</td>
+    <td><a href="https://leetcode.com/problems/search-a-2d-matrix/">Search a 2d matrix</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr> 
   <tr>
     <td>75</td>
     <td><a href="https://leetcode.com/problems/sort-colors/">Sort colors</a></td>
@@ -92,6 +99,13 @@ LetCode Algorithms
     <td><a href="https://leetcode.com/problems/valid-palindrome/">Valid Palindrome</a></td>
     <td>Python</td>
     <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>153</td>
+    <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find minimum in rotated sorted array</a></td>
+    <td>Python</td>
+    <td>Medium</td>
     <td></td>
   </tr>
   <tr>
