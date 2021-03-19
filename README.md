@@ -60,6 +60,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>46</td>
+    <td><a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>53</td>
     <td><a href="https://leetcode.com/problems/maximum-subarray/">Maximum subarray</a></td>
     <td>Python</td>
