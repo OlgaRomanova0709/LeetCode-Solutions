@@ -72,7 +72,14 @@ LetCode Algorithms
     <td>Python</td>
     <td>Easy</td>
     <td></td>
-  </tr> 
+  </tr>
+  <tr>
+    <td>70</td>
+    <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing stairs</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>  
   <tr>
     <td>74</td>
     <td><a href="https://leetcode.com/problems/search-a-2d-matrix/">Search a 2d matrix</a></td>
@@ -136,6 +143,13 @@ LetCode Algorithms
     <td>Easy</td>
     <td></td>
   </tr>
+  <tr>
+    <td>322</td>
+    <td><a href="https://leetcode.com/problems/coin-change/">Coin change</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>  
   <tr>
     <td>344</td>
     <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
