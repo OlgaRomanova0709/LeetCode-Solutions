@@ -180,6 +180,13 @@ LetCode Algorithms
     <td></td>
   </tr> 
   <tr>
+    <td>746</td>
+    <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min cost climbing stairs</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>852</td>
     <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak index in a mountain array</a></td>
     <td>Python</td>
