@@ -143,6 +143,13 @@ LetCode Algorithms
     <td>Medium</td>
     <td></td>
   </tr>  
+  <tr>
+    <td>401</td>
+    <td><a href="https://leetcode.com/problems/binary-watch/">Binary watch</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>  
   
   <tr>
     <td>509</td>
