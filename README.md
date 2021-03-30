@@ -178,12 +178,26 @@ LetCode Algorithms
     <td>*</td>
   </tr>
   <tr>
+    <td>64</td>
+    <td><a href="https://leetcode.com/problems/minimum-path-sum/">Minimum path sum</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>
+  <tr>
     <td>69</td>
     <td><a href="https://leetcode.com/problems/sqrtx/">Sqrtx</a></td>
     <td>Python</td>
     <td>Easy</td>
     <td></td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td>70</td>
+    <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing stairs</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
   <tr>
     <td>88</td>
     <td><a href="https://leetcode.com/problems/merge-sorted-array/">Merge sorted array</a></td>
@@ -210,6 +224,13 @@ LetCode Algorithms
     <td>Python</td>
     <td>Easy</td>
     <td></td>
+  </tr> 
+  <tr>
+    <td>102</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary tree order traversal</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
   </tr> 
   <tr>
     <td>104</td>
@@ -282,6 +303,27 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>198</td>
+    <td><a href="https://leetcode.com/problems/house-robber/">House robber</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr> 
+   <tr>
+    <td>199</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-right-side-view/">Binary tree right side view</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>  
+  <tr>
+    <td>200</td>
+    <td><a href="https://leetcode.com/problems/number-of-islands/">Number of islands</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr> 
+  <tr>
     <td>206</td>
     <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse linked list</a></td>
     <td>Python</td>
@@ -289,11 +331,32 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>207</td>
+    <td><a href="https://leetcode.com/problems/course-schedule/">Course schedule</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>
+  <tr>
     <td>209</td>
     <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum size subarray sum</a></td>
     <td>Python</td>
     <td>Medium</td>
     <td></td>
+  </tr> 
+  <tr>
+    <td>210</td>
+    <td><a href="https://leetcode.com/problems/course-schedule-ii/">Course schedule II</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>
+  <tr>
+    <td>213</td>
+    <td><a href="https://leetcode.com/problems/house-robber-ii/">House robber II</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
   </tr> 
   <tr>
     <td>239</td>
@@ -317,11 +380,25 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>300</td>
+    <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest increasing subsequence</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>  
+  <tr>
     <td>322</td>
     <td><a href="https://leetcode.com/problems/coin-change/">Coin change</a></td>
     <td>Python</td>
     <td>Medium</td>
     <td></td>
+  </tr>  
+  <tr>
+    <td>429</td>
+    <td><a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">N-ary Tree level order traversal</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
   </tr>  
   <tr>
     <td>344</td>
@@ -350,7 +427,14 @@ LetCode Algorithms
     <td>Python</td>
     <td>Medium</td>
     <td></td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td>392</td>
+    <td><a href="https://leetcode.com/problems/is-subsequence/">Is subsequence</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td>*</td>
+  </tr> 
   <tr>
     <td>401</td>
     <td><a href="https://leetcode.com/problems/binary-watch/">Binary watch</a></td>
@@ -472,12 +556,34 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>983</td>
+    <td><a href="https://leetcode.com/problems/minimum-cost-for-tickets/">Minimum cost for tickets</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>
+  
+  <tr>
     <td>992</td>
     <td><a href="https://leetcode.com/problems/subarrays-with-k-different-integers/">Subarrays with k-different integers</a></td>
     <td>Python</td>
     <td>Hard</td>
     <td>*</td>
   </tr>
+  <tr>
+    <td>1143</td>
+    <td><a href="https://leetcode.com/problems/longest-common-subsequence/">Longest common subsequence</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>
+  <tr>
+    <td>1302</td>
+    <td><a href="https://leetcode.com/problems/deepest-leaves-sum/">Deepest leaves sum</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>  
   <tr>
     <td>1351</td>
     <td><a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count negative numbers in a sorted matrix</a></td>
@@ -491,7 +597,14 @@ LetCode Algorithms
     <td>Python</td>
     <td>Easy</td>
     <td></td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td>1376</td>
+    <td><a href="https://leetcode.com/problems/time-needed-to-inform-all-employees/">Time needed to inform all employees</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr> 
   <tr>
     <td>1389</td>
     <td><a href="https://leetcode.com/problems/create-target-array-in-the-given-order/">Create target array in the given order</a></td>
