@@ -9,6 +9,13 @@ LetCode Algorithms
     <th>Difficulty</th>
     <th>Comments</th>
   </tr>
+    <tr>
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest substring without repeating characters</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
   <tr>
     <td>15</td>
     <td><a href="https://leetcode.com/problems/3sum/">3Sum</a></td>
@@ -164,6 +171,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>79</td>
+    <td><a href="https://leetcode.com/problems/word-search/">Word search</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>
+  <tr>
     <td>69</td>
     <td><a href="https://leetcode.com/problems/sqrtx/">Sqrtx</a></td>
     <td>Python</td>
@@ -275,6 +289,20 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>209</td>
+    <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum size subarray sum</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr> 
+  <tr>
+    <td>239</td>
+    <td><a href="https://leetcode.com/problems/sliding-window-maximum/">Sliding window maximum</a></td>
+    <td>Python</td>
+    <td>Hard</td>
+    <td>*</td>
+  </tr>
+  <tr>
     <td>278</td>
     <td><a href="https://leetcode.com/problems/first-bad-version/">First Bad Version</a></td>
     <td>Python</td>
@@ -345,6 +373,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>523</td>
+    <td><a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous subarray sum</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>637</td>
     <td><a href="https://leetcode.com/problems/average-of-levels-in-binary-tree/">Average of levels in binary tree</a></td>
     <td>Python</td>
@@ -401,6 +436,13 @@ LetCode Algorithms
     <td></td>
   </tr>   
   <tr>
+    <td>904</td>
+    <td><a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit into baskets</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr> 
+  <tr>
     <td>905</td>
     <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort array by parity</a></td>
     <td>Python</td>
@@ -428,6 +470,13 @@ LetCode Algorithms
     <td>Python</td>
     <td>Easy</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>992</td>
+    <td><a href="https://leetcode.com/problems/subarrays-with-k-different-integers/">Subarrays with k-different integers</a></td>
+    <td>Python</td>
+    <td>Hard</td>
+    <td>*</td>
   </tr>
   <tr>
     <td>1351</td>
