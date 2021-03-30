@@ -136,8 +136,36 @@ LetCode Algorithms
     <td></td>
   </tr> 
   <tr>
+    <td>100</td>
+    <td><a href="https://leetcode.com/problems/same-tree/">Same tree</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
+  <tr>
+    <td>101</td>
+    <td><a href="https://leetcode.com/problems/symmetric-tree/">Symmetric tree</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
+  <tr>
     <td>104</td>
     <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum depth of a binary tree</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
+  <tr>
+    <td>111</td>
+    <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum depth of binary tree</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
+  <tr>
+    <td>112</td>
+    <td><a href="https://leetcode.com/problems/path-sum/">Path sum</a></td>
     <td>Python</td>
     <td>Easy</td>
     <td></td>
@@ -254,10 +282,23 @@ LetCode Algorithms
     <td>Easy</td>
     <td></td>
   </tr>  
-  
+  <tr>
+    <td>404</td>
+    <td><a href="https://leetcode.com/problems/sum-of-left-leaves/">Sum of left leaves</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>  
   <tr>
     <td>509</td>
     <td><a href="https://leetcode.com/problems/fibonacci-number/">Fibonacci number</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>637</td>
+    <td><a href="https://leetcode.com/problems/average-of-levels-in-binary-tree/">Average of levels in binary tree</a></td>
     <td>Python</td>
     <td>Easy</td>
     <td></td>
