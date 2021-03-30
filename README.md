@@ -199,6 +199,13 @@ LetCode Algorithms
     <td></td>
   </tr> 
   <tr>
+    <td>83</td>
+    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">Remove duplicates from sorted list</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td>*</td>
+  </tr> 
+  <tr>
     <td>88</td>
     <td><a href="https://leetcode.com/problems/merge-sorted-array/">Merge sorted array</a></td>
     <td>Python</td>
@@ -275,6 +282,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>141</td>
+    <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked list cycle</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td>*</td>
+  </tr> 
+  <tr>
     <td>147</td>
     <td><a href="https://leetcode.com/problems/insertion-sort-list/">Insertion sort list</a></td>
     <td>Python</td>
@@ -295,6 +309,13 @@ LetCode Algorithms
     <td>Medium</td>
     <td></td>
   </tr>
+  <tr>
+    <td>160</td>
+    <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Intersection of two linked lists</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td>*</td>
+  </tr> 
   <tr>
     <td>162</td>
     <td><a href="https://leetcode.com/problems/find-peak-element/">Find Peak Element</a></td>
@@ -385,7 +406,14 @@ LetCode Algorithms
     <td>Python</td>
     <td>Medium</td>
     <td>*</td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td>310</td>
+    <td><a href="https://leetcode.com/problems/minimum-height-trees/">Minimum height trees</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr> 
   <tr>
     <td>322</td>
     <td><a href="https://leetcode.com/problems/coin-change/">Coin change</a></td>
@@ -513,12 +541,26 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>787</td>
+    <td><a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/">Cheapest flights within k stops</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>
+  <tr>
     <td>852</td>
     <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak index in a mountain array</a></td>
     <td>Python</td>
     <td>Easy</td>
     <td></td>
   </tr>   
+  <tr>
+    <td>876</td>
+    <td><a href="https://leetcode.com/problems/middle-of-the-linked-list/">Middle of the linked list</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td>*</td>
+  </tr>  
   <tr>
     <td>904</td>
     <td><a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit into baskets</a></td>
@@ -568,6 +610,13 @@ LetCode Algorithms
     <td><a href="https://leetcode.com/problems/subarrays-with-k-different-integers/">Subarrays with k-different integers</a></td>
     <td>Python</td>
     <td>Hard</td>
+    <td>*</td>
+  </tr>
+  <tr>
+    <td>994</td>
+    <td><a href="https://leetcode.com/problems/rotting-oranges/">Rotting oranges</a></td>
+    <td>Python</td>
+    <td>Medium</td>
     <td>*</td>
   </tr>
   <tr>
