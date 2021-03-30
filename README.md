@@ -74,6 +74,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>56</td>
+    <td><a href="https://leetcode.com/problems/merge-intervals/">Medium intervals</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr> 
+  <tr>
     <td>70</td>
     <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing stairs</a></td>
     <td>Python</td>
@@ -113,6 +120,20 @@ LetCode Algorithms
     <td><a href="https://leetcode.com/problems/valid-palindrome/">Valid Palindrome</a></td>
     <td>Python</td>
     <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>147</td>
+    <td><a href="https://leetcode.com/problems/insertion-sort-list/">Insertion sort list</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr> 
+  <tr>
+    <td>148</td>
+    <td><a href="https://leetcode.com/problems/sort-list/">Sort list</a></td>
+    <td>Python</td>
+    <td>Medium</td>
     <td></td>
   </tr>
   <tr>
@@ -157,6 +178,20 @@ LetCode Algorithms
     <td>Easy</td>
     <td></td>
   </tr>
+  <tr>
+    <td>349</td>
+    <td><a href="https://leetcode.com/problems/intersection-of-two-arrays/">Intersection of two arrays</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>350</td>
+    <td><a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/">Intersection of two arrays II</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>  
   <tr>
     <td>378</td>
     <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/">Kth smallest element in a sorted matrix</a></td>
@@ -228,7 +263,13 @@ LetCode Algorithms
     <td>Easy</td>
     <td></td>
   </tr> 
-  
+  <tr>
+    <td>1370</td>
+    <td><a href="https://leetcode.com/problems/increasing-decreasing-string/">Increasing decreasing string</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>  
   <tr>
     <td>1389</td>
     <td><a href="https://leetcode.com/problems/create-target-array-in-the-given-order/">Create target array in the given order</a></td>
@@ -236,6 +277,13 @@ LetCode Algorithms
     <td>Easy</td>
     <td></td>
   </tr>
+  <tr>
+    <td>1403</td>
+    <td><a href="https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/">Minimum subsequence in non increasing order</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>  
   <tr>
     <td>1480</td>
     <td><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Running Sum of 1D array</a></td>
