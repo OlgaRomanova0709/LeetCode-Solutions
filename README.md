@@ -23,7 +23,20 @@ LetCode Algorithms
     <td>Medium</td>
     <td></td>
   </tr>
-  
+  <tr>
+    <td>21</td>
+    <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Merge two sorted lists</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap nodes in pairs</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>  
   <tr>
     <td>26</td>
     <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
@@ -116,6 +129,34 @@ LetCode Algorithms
     <td></td>
   </tr>  
   <tr>
+    <td>88</td>
+    <td><a href="https://leetcode.com/problems/merge-sorted-array/">Merge sorted array</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
+  <tr>
+    <td>104</td>
+    <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum depth of a binary tree</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
+  <tr>
+    <td>118</td>
+    <td><a href="https://leetcode.com/problems/pascals-triangle/">Pascals triangle</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr> 
+  <tr>
+    <td>119</td>
+    <td><a href="https://leetcode.com/problems/pascals-triangle-ii/">Pascals triangle II</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>125</td>
     <td><a href="https://leetcode.com/problems/valid-palindrome/">Valid Palindrome</a></td>
     <td>Python</td>
@@ -148,6 +189,13 @@ LetCode Algorithms
     <td><a href="https://leetcode.com/problems/find-peak-element/">Find Peak Element</a></td>
     <td>Python</td>
     <td>Medium</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>206</td>
+    <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse linked list</a></td>
+    <td>Python</td>
+    <td>Easy</td>
     <td></td>
   </tr>
   <tr>
@@ -215,6 +263,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>700</td>
+    <td><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">Search in a binary search tree</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>704</td>
     <td><a href="https://leetcode.com/problems/binary-search/">Binary Search</a></td>
     <td>Python</td>
@@ -236,6 +291,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>779</td>
+    <td><a href="https://leetcode.com/problems/k-th-symbol-in-grammar/">K-th symbol in grammar</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>852</td>
     <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak index in a mountain array</a></td>
     <td>Python</td>
@@ -249,6 +311,21 @@ LetCode Algorithms
     <td>Easy</td>
     <td></td>
   </tr>
+  <tr>
+    <td>912</td>
+    <td><a href="https://leetcode.com/problems/sort-an-array/">Sort an array</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr> 
+  <tr>
+    <td>973</td>
+    <td><a href="https://leetcode.com/problems/k-closest-points-to-origin/">K-closest points to origin</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr> 
+  
   <tr>
     <td>977</td>
     <td><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Squares of sorted array</a></td>
