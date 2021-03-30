@@ -31,6 +31,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>22</td>
+    <td><a href="https://leetcode.com/problems/generate-parentheses/">Generate parentheses</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr> 
+  <tr>
     <td>24</td>
     <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap nodes in pairs</a></td>
     <td>Python</td>
@@ -73,8 +80,29 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>39</td>
+    <td><a href="https://leetcode.com/problems/combination-sum/">Combination sum</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>40</td>
+    <td><a href="https://leetcode.com/problems/combination-sum-ii/">Combination sum II</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>46</td>
     <td><a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>47</td>
+    <td><a href="https://leetcode.com/problems/permutations-ii/">Permutations II</a></td>
     <td>Python</td>
     <td>Medium</td>
     <td></td>
@@ -122,6 +150,20 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>77</td>
+    <td><a href="https://leetcode.com/problems/combinations/">Combinations</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>78</td>
+    <td><a href="https://leetcode.com/problems/subsets/">Subsets</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>69</td>
     <td><a href="https://leetcode.com/problems/sqrtx/">Sqrtx</a></td>
     <td>Python</td>
@@ -135,6 +177,12 @@ LetCode Algorithms
     <td>Easy</td>
     <td></td>
   </tr> 
+  <tr>
+    <td>90</td>
+    <td><a href="https://leetcode.com/problems/subsets-ii/">Subsets II</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td><
   <tr>
     <td>100</td>
     <td><a href="https://leetcode.com/problems/same-tree/">Same tree</a></td>
@@ -334,6 +382,13 @@ LetCode Algorithms
   <tr>
     <td>779</td>
     <td><a href="https://leetcode.com/problems/k-th-symbol-in-grammar/">K-th symbol in grammar</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>784</td>
+    <td><a href="https://leetcode.com/problems/letter-case-permutation/">Letter case permutation</a></td>
     <td>Python</td>
     <td>Medium</td>
     <td></td>
