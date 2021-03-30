@@ -127,6 +127,27 @@ LetCode Algorithms
     <td>Python</td>
     <td>Medium</td>
     <td></td>
+  </tr>  
+ <tr>
+    <td>61</td>
+    <td><a href="https://leetcode.com/problems/rotate-list/">Rotate list</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr> 
+  <tr>
+    <td>64</td>
+    <td><a href="https://leetcode.com/problems/minimum-path-sum/">Minimum path sum</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>
+  <tr>
+    <td>69</td>
+    <td><a href="https://leetcode.com/problems/sqrtx/">Sqrtx</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td></td>
   </tr> 
   <tr>
     <td>70</td>
@@ -134,8 +155,8 @@ LetCode Algorithms
     <td>Python</td>
     <td>Easy</td>
     <td></td>
-  </tr>  
-  <tr>
+  </tr> 
+    <tr>
     <td>74</td>
     <td><a href="https://leetcode.com/problems/search-a-2d-matrix/">Search a 2d matrix</a></td>
     <td>Python</td>
@@ -177,27 +198,7 @@ LetCode Algorithms
     <td>Medium</td>
     <td>*</td>
   </tr>
-  <tr>
-    <td>64</td>
-    <td><a href="https://leetcode.com/problems/minimum-path-sum/">Minimum path sum</a></td>
-    <td>Python</td>
-    <td>Medium</td>
-    <td>*</td>
-  </tr>
-  <tr>
-    <td>69</td>
-    <td><a href="https://leetcode.com/problems/sqrtx/">Sqrtx</a></td>
-    <td>Python</td>
-    <td>Easy</td>
-    <td></td>
-  </tr> 
-  <tr>
-    <td>70</td>
-    <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing stairs</a></td>
-    <td>Python</td>
-    <td>Easy</td>
-    <td></td>
-  </tr> 
+  
   <tr>
     <td>83</td>
     <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">Remove duplicates from sorted list</a></td>
@@ -205,6 +206,13 @@ LetCode Algorithms
     <td>Easy</td>
     <td>*</td>
   </tr> 
+  <tr>
+    <td>86</td>
+    <td><a href="https://leetcode.com/problems/partition-list/">Partition list</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>  
   <tr>
     <td>88</td>
     <td><a href="https://leetcode.com/problems/merge-sorted-array/">Merge sorted array</a></td>
@@ -282,6 +290,13 @@ LetCode Algorithms
     <td></td>
   </tr>
   <tr>
+    <td>138</td>
+    <td><a href="https://leetcode.com/problems/copy-list-with-random-pointer/">Copy list with random pointer</a></td>
+    <td>Python</td>
+    <td>Medium</td>
+    <td>*</td>
+  </tr>  
+  <tr>
     <td>141</td>
     <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked list cycle</a></td>
     <td>Python</td>
@@ -345,6 +360,13 @@ LetCode Algorithms
     <td>*</td>
   </tr> 
   <tr>
+    <td>203</td>
+    <td><a href="https://leetcode.com/problems/remove-linked-list-elements/">Remove linked list elements</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td>*</td>
+  </tr> 
+  <tr>
     <td>206</td>
     <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse linked list</a></td>
     <td>Python</td>
@@ -379,6 +401,13 @@ LetCode Algorithms
     <td>Medium</td>
     <td>*</td>
   </tr> 
+  <tr>
+    <td>234</td>
+    <td><a href="https://leetcode.com/problems/palindrome-linked-list/">Palindrome linked list</a></td>
+    <td>Python</td>
+    <td>Easy</td>
+    <td>*</td>
+  </tr>
   <tr>
     <td>239</td>
     <td><a href="https://leetcode.com/problems/sliding-window-maximum/">Sliding window maximum</a></td>
