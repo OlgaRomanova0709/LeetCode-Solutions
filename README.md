@@ -182,7 +182,7 @@ LetCode Algorithms
     <td><a href="https://leetcode.com/problems/subsets-ii/">Subsets II</a></td>
     <td>Python</td>
     <td>Easy</td>
-    <td><
+    <td>*</td>
   <tr>
     <td>100</td>
     <td><a href="https://leetcode.com/problems/same-tree/">Same tree</a></td>
